@@ -1,0 +1,28 @@
+.input_field{
+  padding: 8px;
+  margin-right: 5px;
+  background-color: #fcfcfc !important;
+  border-color:#ededfb;
+  border-width: 1px;
+  border-style: solid;
+  margin-bottom: 20px;
+  display: flex;
+  
+}
+.input_field > input{
+  border: none;
+  width: 100%;
+  background-color: #fcfcfc !important;
+  outline-style: none;
+}
+.inputfield_icon{
+	 
+	 color:#a1a6b7; 	 
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus, 
+input:-webkit-autofill:active  {
+    -webkit-box-shadow: 0 0 0 30px white inset !important;
+}

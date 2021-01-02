@@ -1,0 +1,28 @@
+.product_details{
+	display: flex;
+	justify-content: space-between !important;
+	font-family: 'Roboto', sans-serif;
+}
+.span_product{
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+	text-transform: capitalize !important;
+}
+.product_d_button{
+background-color: #f42b68;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  outline: none;
+}
+.brand_name{
+  font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    color: gray;
+}

@@ -1,0 +1,25 @@
+export const SET_ALERT = 'SET_ALERT'
+export const REMOVE_ALERT = 'REMOVE_ALERT'
+export const REGISTER_SUCCESS = 'REGISTER_SUCCESS'
+export const REGISTER_FAILURE = 'REGISTER_FAILURE'
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS'
+export const LOGIN_FAILURE = 'LOGIN_FAILURE'
+export const USER_LOADED = 'USER_LOADED'
+export const AUTH_ERROR = 'AUTH_ERROR'
+export const LOGOUT = 'LOGOUT'
+export const SHOW_ALERT = 'SHOW_ALERT'
+export const LOADER = "LOADER"
+export const ALL_PRODUCT ="ALL_PRODUCT"
+export const SIGNLE_PRODUCT ="SIGNLE_PRODUCT"
+export const LOAD_PAGE="LOAD_PAGE"
+export const ADD_TO_CART_REQUEST = "ADD_TO_CART_REQUEST";
+export const ADD_TO_CART_SUCCESS = "ADD_TO_CART_SUCCESS";
+export const ADD_TO_CART_FAILURE = "ADD_TO_CART_FAILURE";
+export const INCR_PRODUCT_QTY = "INCR_PRODUCT_QTY";
+export const DECR_PRODUCT_QTY = "DECR_PRODUCT_QTY";
+export const DELETE_CART_ITEM = "DELETE_CART_ITEM";
+export const CLEAR_CART = "CLEAR_CART";
+
+
+
+

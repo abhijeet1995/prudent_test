@@ -1,0 +1,25 @@
+.login_text{
+	font-family: 'Roboto', sans-serif;
+	font-weight: normal;
+	font-size:11px;
+	color: #a1a6b7;
+	padding-bottom: 0.9rem;
+}
+.redirect_login{
+	color: #078dff;
+	cursor: pointer;
+}
+.btn_signup{
+	width: 464px !important;
+  height: 48px !important;
+  border-radius: 2px;
+  background-color: #ffffff;
+  color: #3A3A3A;  
+  outline-style: none;
+  text-decoration: none;
+  border: none;
+  border: 1px solid #3A3A3A;
+  font-weight: 600 !important;
+   font-family: 'Roboto', sans-serif;
+   cursor: pointer;
+}
